@@ -41,7 +41,7 @@ vector<vector<int>> bfs(int start_x, int start_y, const vector<vector<int>>& gri
 
 int main() {
     ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+    cin.tie(NULL);
     
     int n, m;
     cin >> n >> m;
